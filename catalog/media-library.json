@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-07-01T11:46:45",
+  "generatedAt": "2026-07-01T13:22:33",
   "catalogType": "learnwithme-media-library",
   "customDomain": "https://media.learnwithcole.com",
   "baseRemotePath": "images/2026/buzzer/tv",
   "publishMode": "auto",
-  "count": 25,
+  "count": 34,
   "records": [
+    {
+      "mediaID": "2026-alt-tv-al-pacino",
+      "id": "img-1768524401446-cop4w19",
+      "type": "image",
+      "media_type": "image",
+      "name": "Al Pacino",
+      "description": "American Actor",
+      "subject": "Theatre and Cinema",
+      "category": "World-Current-Actor",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "al-pacino.webp",
+      "originalName": "al-pacino.jpg",
+      "sha256": "073fc20b4e42672ac61d876b7a5244912b7dc3e5da3f8b06fe56280eecc05ea0",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 17.84,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/tv",
+        "relativePath": "images/2026/alternate/tv/full/al-pacino.webp",
+        "fullRelativePath": "images/2026/alternate/tv/full/al-pacino.webp",
+        "thumbnailRelativePath": "images/2026/alternate/tv/thumbs/al-pacino.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/tv/full/al-pacino.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/full/al-pacino.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/thumbs/al-pacino.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/tv/full/al-pacino.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/tv/thumbs/al-pacino.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/tv/full/al-pacino.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/thumbs/al-pacino.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:46:41.446Z",
+        "videoTimestamp": "4:48",
+        "sourceID": "img-1768524401446-cop4w19"
+      }
+    },
     {
       "mediaID": "2026-alt-lia-andrew-morris",
       "id": "img-1768453552985-nfurr7n",
@@ -104,6 +154,56 @@
         "capturedAt": "2026-01-15T06:12:39.487Z",
         "videoTimestamp": "17:07",
         "sourceID": "img-1768457559487-6qifcnm"
+      }
+    },
+    {
+      "mediaID": "2026-alt-sport-ato-boldon",
+      "id": "img-1768524866946-n76yvg3",
+      "type": "image",
+      "media_type": "image",
+      "name": "Ato Boldon",
+      "description": "Trinidad and Tobago Former Sprinter",
+      "subject": "Sports",
+      "category": "Athletics-World-Former-Athlete",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "ato-boldon.webp",
+      "originalName": "ato-boldon.jpg",
+      "sha256": "733d185477d4bd850e1d3fa70be973891c8b36c8aa8b419379686e7bf257393d",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 19.79,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/sport",
+        "relativePath": "images/2026/alternate/sport/full/ato-boldon.webp",
+        "fullRelativePath": "images/2026/alternate/sport/full/ato-boldon.webp",
+        "thumbnailRelativePath": "images/2026/alternate/sport/thumbs/ato-boldon.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/sport/full/ato-boldon.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/full/ato-boldon.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/thumbs/ato-boldon.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/sport/full/ato-boldon.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/sport/thumbs/ato-boldon.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/sport/full/ato-boldon.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/thumbs/ato-boldon.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:54:26.946Z",
+        "videoTimestamp": "5:59",
+        "sourceID": "img-1768524866946-n76yvg3"
       }
     },
     {
@@ -357,6 +457,56 @@
       }
     },
     {
+      "mediaID": "2026-bz-sport-carmelita-jeter",
+      "id": "img-1768525340396-qqsnc5t",
+      "type": "image",
+      "media_type": "image",
+      "name": "Carmelita Jeter",
+      "description": "American Former Sprinter",
+      "subject": "Sports",
+      "category": "Athletics-World-Current-Athlete",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "buzzer"
+      },
+      "section": "buzzer",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "carmelita-jeter.webp",
+      "originalName": "carmelita-jeter.jpg",
+      "sha256": "c4884aec369ef729a6ac8f48ba59b08ddc7bc49faa11c196f2f82ce9803027dd",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 28.42,
+      "github": {
+        "baseRemotePath": "images/2026/buzzer/sport",
+        "relativePath": "images/2026/buzzer/sport/full/carmelita-jeter.webp",
+        "fullRelativePath": "images/2026/buzzer/sport/full/carmelita-jeter.webp",
+        "thumbnailRelativePath": "images/2026/buzzer/sport/thumbs/carmelita-jeter.webp",
+        "url": "https://media.learnwithcole.com/images/2026/buzzer/sport/full/carmelita-jeter.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/buzzer/sport/full/carmelita-jeter.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/buzzer/sport/thumbs/carmelita-jeter.webp",
+        "localRelativePath": "../github-ready/images/2026/buzzer/sport/full/carmelita-jeter.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/buzzer/sport/thumbs/carmelita-jeter.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/buzzer/sport/full/carmelita-jeter.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/buzzer/sport/thumbs/carmelita-jeter.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T01:02:20.396Z",
+        "videoTimestamp": "20:23",
+        "sourceID": "img-1768525340396-qqsnc5t"
+      }
+    },
+    {
       "mediaID": "2026-alt-tv-christopher-meloni",
       "id": "img-1768459099266-ogvydrb",
       "type": "image",
@@ -404,6 +554,56 @@
         "capturedAt": "2026-01-15T06:38:19.266Z",
         "videoTimestamp": "5:22",
         "sourceID": "img-1768459099266-ogvydrb"
+      }
+    },
+    {
+      "mediaID": "2026-bz-lia-cyril-ramaphosa",
+      "id": "img-1768524978850-uc1m73z",
+      "type": "image",
+      "media_type": "image",
+      "name": "Cyril Ramaphosa",
+      "description": "President of South Africa",
+      "subject": "Local and International Affairs",
+      "category": "World-Current-President",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "buzzer"
+      },
+      "section": "buzzer",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "cyril-ramaphosa.webp",
+      "originalName": "cyril-ramaphosa.jpg",
+      "sha256": "24544f1326a430f4757bc93bf2e5958a544be229e63e1e0058c947a7f2eeb066",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 20.98,
+      "github": {
+        "baseRemotePath": "images/2026/buzzer/lia",
+        "relativePath": "images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+        "fullRelativePath": "images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+        "thumbnailRelativePath": "images/2026/buzzer/lia/thumbs/cyril-ramaphosa.webp",
+        "url": "https://media.learnwithcole.com/images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/buzzer/lia/thumbs/cyril-ramaphosa.webp",
+        "localRelativePath": "../github-ready/images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/buzzer/lia/thumbs/cyril-ramaphosa.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/buzzer/lia/full/cyril-ramaphosa.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/buzzer/lia/thumbs/cyril-ramaphosa.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:56:18.850Z",
+        "videoTimestamp": "18:07",
+        "sourceID": "img-1768524978850-uc1m73z"
       }
     },
     {
@@ -457,6 +657,56 @@
       }
     },
     {
+      "mediaID": "2026-alt-lia-eswatini",
+      "id": "img-1768524080462-uwlpqst",
+      "type": "image",
+      "media_type": "image",
+      "name": "Eswatini",
+      "description": "Flag of Eswatini",
+      "subject": "Local and International Affairs",
+      "category": "World-Current-Flag",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "eswatini.webp",
+      "originalName": "eswatini.jpg",
+      "sha256": "4c91f280092eda4e853a292f4a68f8a5a455e81a52228f4147aefd59d7febc7a",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 17.13,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/lia",
+        "relativePath": "images/2026/alternate/lia/full/eswatini.webp",
+        "fullRelativePath": "images/2026/alternate/lia/full/eswatini.webp",
+        "thumbnailRelativePath": "images/2026/alternate/lia/thumbs/eswatini.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/lia/full/eswatini.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/full/eswatini.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/thumbs/eswatini.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/lia/full/eswatini.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/lia/thumbs/eswatini.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/lia/full/eswatini.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/thumbs/eswatini.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:41:20.462Z",
+        "videoTimestamp": "2:40",
+        "sourceID": "img-1768524080462-uwlpqst"
+      }
+    },
+    {
       "mediaID": "2026-alt-sport-gail-devers",
       "id": "img-1768459243096-n9j77m0",
       "type": "image",
@@ -504,6 +754,56 @@
         "capturedAt": "2026-01-15T06:40:43.096Z",
         "videoTimestamp": "6:05",
         "sourceID": "img-1768459243096-n9j77m0"
+      }
+    },
+    {
+      "mediaID": "2026-alt-sport-hasely-crawford",
+      "id": "img-1768524741688-x7arydj",
+      "type": "image",
+      "media_type": "image",
+      "name": "Hasely Crawford",
+      "description": "First Olympic Champion from Trinidad and Tobago",
+      "subject": "Sports",
+      "category": "Athletics-World-Former-Athlete",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "hasely-crawford.webp",
+      "originalName": "hasely-crawford.jpg",
+      "sha256": "843010160d09577a000f7e76b3ce9c3d0d19c8cc0731fd9bfb75667e64a373d3",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 25.01,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/sport",
+        "relativePath": "images/2026/alternate/sport/full/hasely-crawford.webp",
+        "fullRelativePath": "images/2026/alternate/sport/full/hasely-crawford.webp",
+        "thumbnailRelativePath": "images/2026/alternate/sport/thumbs/hasely-crawford.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/sport/full/hasely-crawford.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/full/hasely-crawford.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/thumbs/hasely-crawford.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/sport/full/hasely-crawford.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/sport/thumbs/hasely-crawford.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/sport/full/hasely-crawford.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/sport/thumbs/hasely-crawford.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:52:21.688Z",
+        "videoTimestamp": "5:45",
+        "sourceID": "img-1768524741688-x7arydj"
       }
     },
     {
@@ -957,6 +1257,56 @@
       }
     },
     {
+      "mediaID": "2026-alt-lia-mongolia",
+      "id": "img-1768524127295-3sfje48",
+      "type": "image",
+      "media_type": "image",
+      "name": "Mongolia",
+      "description": "Flag of Mongolia",
+      "subject": "Local and International Affairs",
+      "category": "World-Current-Flag",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "mongolia.webp",
+      "originalName": "mongolia.jpg",
+      "sha256": "1e87a1244d56d4fb76308c871d3011b7675b6b1ed2698f041ad39d79b8550133",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 17.31,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/lia",
+        "relativePath": "images/2026/alternate/lia/full/mongolia.webp",
+        "fullRelativePath": "images/2026/alternate/lia/full/mongolia.webp",
+        "thumbnailRelativePath": "images/2026/alternate/lia/thumbs/mongolia.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/lia/full/mongolia.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/full/mongolia.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/thumbs/mongolia.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/lia/full/mongolia.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/lia/thumbs/mongolia.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/lia/full/mongolia.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/lia/thumbs/mongolia.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:42:07.295Z",
+        "videoTimestamp": "2:53",
+        "sourceID": "img-1768524127295-3sfje48"
+      }
+    },
+    {
       "mediaID": "2026-alt-lia-omar-newell",
       "id": "img-1768453494499-scwpq24",
       "type": "image",
@@ -1107,6 +1457,56 @@
       }
     },
     {
+      "mediaID": "2026-alt-tv-robert-duvall",
+      "id": "img-1768524504227-gcn1vft",
+      "type": "image",
+      "media_type": "image",
+      "name": "Robert Duvall",
+      "description": "American Actor",
+      "subject": "Theatre and Cinema",
+      "category": "World-Former-Actor",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "alternate"
+      },
+      "section": "alternate",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "robert-duvall.webp",
+      "originalName": "robert-duvall.jpg",
+      "sha256": "8e8a07fce69da20797ac1868633e129287c7f1addb5b9beb633534daa6af7a75",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 16.08,
+      "github": {
+        "baseRemotePath": "images/2026/alternate/tv",
+        "relativePath": "images/2026/alternate/tv/full/robert-duvall.webp",
+        "fullRelativePath": "images/2026/alternate/tv/full/robert-duvall.webp",
+        "thumbnailRelativePath": "images/2026/alternate/tv/thumbs/robert-duvall.webp",
+        "url": "https://media.learnwithcole.com/images/2026/alternate/tv/full/robert-duvall.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/full/robert-duvall.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/thumbs/robert-duvall.webp",
+        "localRelativePath": "../github-ready/images/2026/alternate/tv/full/robert-duvall.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/alternate/tv/thumbs/robert-duvall.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/alternate/tv/full/robert-duvall.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/alternate/tv/thumbs/robert-duvall.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T00:48:24.227Z",
+        "videoTimestamp": "5:01",
+        "sourceID": "img-1768524504227-gcn1vft"
+      }
+    },
+    {
       "mediaID": "2026-bz-lia-sean-duffy",
       "id": "img-1768454580931-d4c4uar",
       "type": "image",
@@ -1204,6 +1604,56 @@
         "capturedAt": "2026-01-15T05:29:03.997Z",
         "videoTimestamp": "19:36",
         "sourceID": "img-1768454943997-6lk7si3"
+      }
+    },
+    {
+      "mediaID": "2026-bz-tv-sigourney-weaver",
+      "id": "img-1768525220111-lyvh8ax",
+      "type": "image",
+      "media_type": "image",
+      "name": "Sigourney Weaver",
+      "description": "American Actress",
+      "subject": "Theatre and Cinema",
+      "category": "World-Current-Actress",
+      "collection": "",
+      "mode": "competition",
+      "competition": {
+        "year": "2026",
+        "round": "1",
+        "matchNumber": "4",
+        "section": "buzzer"
+      },
+      "section": "buzzer",
+      "year": "2026",
+      "round": "1",
+      "matchNumber": "4",
+      "knowledge": -1,
+      "filename": "sigourney-weaver.webp",
+      "originalName": "sigourney-weaver.jpg",
+      "sha256": "56dbf83c5abca5d46e0b0b1cc1b1360f2e7f1032bbb804aa064ae64ddffe36a4",
+      "width": 1114,
+      "height": 548,
+      "durationSeconds": null,
+      "sizeKB": 19.35,
+      "github": {
+        "baseRemotePath": "images/2026/buzzer/tv",
+        "relativePath": "images/2026/buzzer/tv/full/sigourney-weaver.webp",
+        "fullRelativePath": "images/2026/buzzer/tv/full/sigourney-weaver.webp",
+        "thumbnailRelativePath": "images/2026/buzzer/tv/thumbs/sigourney-weaver.webp",
+        "url": "https://media.learnwithcole.com/images/2026/buzzer/tv/full/sigourney-weaver.webp",
+        "fullUrl": "https://media.learnwithcole.com/images/2026/buzzer/tv/full/sigourney-weaver.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/images/2026/buzzer/tv/thumbs/sigourney-weaver.webp",
+        "localRelativePath": "../github-ready/images/2026/buzzer/tv/full/sigourney-weaver.webp",
+        "localThumbnailRelativePath": "../github-ready/images/2026/buzzer/tv/thumbs/sigourney-weaver.webp"
+      },
+      "url": "https://media.learnwithcole.com/images/2026/buzzer/tv/full/sigourney-weaver.webp",
+      "thumbUrl": "https://media.learnwithcole.com/images/2026/buzzer/tv/thumbs/sigourney-weaver.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "004.zip",
+        "capturedAt": "2026-01-16T01:00:20.111Z",
+        "videoTimestamp": "19:29",
+        "sourceID": "img-1768525220111-lyvh8ax"
       }
     },
     {
