@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T13:38:47",
+  "generatedAt": "2026-07-01T15:12:56",
   "catalogType": "learnwithme-media-library",
   "customDomain": "https://media.learnwithcole.com",
-  "baseRemotePath": "images/2026/buzzer/tv",
+  "baseRemotePath": "library/images/sports/footballers",
   "publishMode": "auto",
-  "count": 43,
+  "count": 52,
   "records": [
     {
       "mediaID": "2026-alt-tv-al-pacino",
@@ -457,6 +457,56 @@
       }
     },
     {
+      "mediaID": "sport-footballers-bukayo-saka",
+      "id": "img-1782936337059-y35wn3a",
+      "type": "image",
+      "media_type": "image",
+      "name": "Bukayo Saka",
+      "description": "English Footballer for Arsenal",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "bukayo-saka.webp",
+      "originalName": "bukayo-saka.jpg",
+      "sha256": "74dfe04ff08b89624c853d0b13c8fea9e520e66f6bfd966a2bca5f979d227e24",
+      "width": 300,
+      "height": 390,
+      "durationSeconds": null,
+      "sizeKB": 15.59,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/bukayo-saka.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/bukayo-saka.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/bukayo-saka.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/bukayo-saka.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/bukayo-saka.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/bukayo-saka.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/bukayo-saka.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/bukayo-saka.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/bukayo-saka.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/bukayo-saka.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T20:05:37.059Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782936337059-y35wn3a"
+      }
+    },
+    {
       "mediaID": "2026-alt-sport-carl-lewis",
       "id": "img-1768459188853-udxm41u",
       "type": "image",
@@ -607,6 +657,56 @@
       }
     },
     {
+      "mediaID": "sport-footballers-cristiano-ronaldo",
+      "id": "img-1782933694557-eprwr7h",
+      "type": "image",
+      "media_type": "image",
+      "name": "Cristiano Ronaldo",
+      "description": "Portuguese National Footballer for Al-Nassr",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "cristiano-ronaldo.webp",
+      "originalName": "cristiano-ronaldo.jpg",
+      "sha256": "33628998645fffd921667da826ce742a3912171879d678625c279243e7a1b56d",
+      "width": 904,
+      "height": 1109,
+      "durationSeconds": null,
+      "sizeKB": 90.08,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/cristiano-ronaldo.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/cristiano-ronaldo.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/cristiano-ronaldo.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/cristiano-ronaldo.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/cristiano-ronaldo.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/cristiano-ronaldo.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/cristiano-ronaldo.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/cristiano-ronaldo.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/cristiano-ronaldo.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/cristiano-ronaldo.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T19:21:34.557Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782933694557-eprwr7h"
+      }
+    },
+    {
       "mediaID": "2026-bz-lia-cyril-ramaphosa",
       "id": "img-1768524978850-uc1m73z",
       "type": "image",
@@ -654,6 +754,56 @@
         "capturedAt": "2026-01-16T00:56:18.850Z",
         "videoTimestamp": "18:07",
         "sourceID": "img-1768524978850-uc1m73z"
+      }
+    },
+    {
+      "mediaID": "sport-footballers-declan-rice",
+      "id": "img-1782936556589-gpfga8x",
+      "type": "image",
+      "media_type": "image",
+      "name": "Declan Rice",
+      "description": "English Footballer for Arsenal",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "declan-rice.webp",
+      "originalName": "declan-rice.jpg",
+      "sha256": "232ab308c35e5633732b8d74d95ab7721aadec2fb5a9df18ad17cce408b3f1e0",
+      "width": 413,
+      "height": 415,
+      "durationSeconds": null,
+      "sizeKB": 15.38,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/declan-rice.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/declan-rice.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/declan-rice.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/declan-rice.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/declan-rice.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/declan-rice.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/declan-rice.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/declan-rice.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/declan-rice.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/declan-rice.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T20:09:16.589Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782936556589-gpfga8x"
       }
     },
     {
@@ -754,6 +904,56 @@
         "capturedAt": "2026-01-17T12:35:41.795Z",
         "videoTimestamp": "2:21",
         "sourceID": "img-1768653341795-9v0w6km"
+      }
+    },
+    {
+      "mediaID": "sport-footballers-erling-haaland",
+      "id": "img-1782936116176-6w72i28",
+      "type": "image",
+      "media_type": "image",
+      "name": "Erling Haaland",
+      "description": "Norwegian Footballer for Manchester City",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "erling-haaland.webp",
+      "originalName": "erling-haaland.jpg",
+      "sha256": "87785ad4f948ff2d24db68e03857de74a14144c0e17220bc2a24baa09ff89dcd",
+      "width": 1200,
+      "height": 1800,
+      "durationSeconds": null,
+      "sizeKB": 203.82,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/erling-haaland.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/erling-haaland.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/erling-haaland.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/erling-haaland.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/erling-haaland.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/erling-haaland.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/erling-haaland.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/erling-haaland.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/erling-haaland.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/erling-haaland.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T20:01:56.176Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782936116176-6w72i28"
       }
     },
     {
@@ -1207,6 +1407,56 @@
       }
     },
     {
+      "mediaID": "sport-footballers-kai-havertz",
+      "id": "img-1782936459885-3y3xks2",
+      "type": "image",
+      "media_type": "image",
+      "name": "Kai Havertz",
+      "description": "German Footballer for Arsenal",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "kai-havertz.webp",
+      "originalName": "kai-havertz.jpg",
+      "sha256": "35b9addf4ae3ab9e63a196d9d11982288a59d5e9c2b0deafe7c1c13f10f6de05",
+      "width": 1045,
+      "height": 588,
+      "durationSeconds": null,
+      "sizeKB": 35.39,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/kai-havertz.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/kai-havertz.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/kai-havertz.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/kai-havertz.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/kai-havertz.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/kai-havertz.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/kai-havertz.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/kai-havertz.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/kai-havertz.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/kai-havertz.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T20:07:39.885Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782936459885-3y3xks2"
+      }
+    },
+    {
       "mediaID": "2026-alt-lia-kamina-johnson-smith",
       "id": "img-1768455268759-kzscteb",
       "type": "image",
@@ -1407,6 +1657,106 @@
       }
     },
     {
+      "mediaID": "sport-footballers-kylian-mbappe",
+      "id": "img-1782935755448-pg8jvs8",
+      "type": "image",
+      "media_type": "image",
+      "name": "Kylian Mbapp\u00e9",
+      "description": "French Footballer for Real Madrid",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "kylian-mbappe.webp",
+      "originalName": "kylian-mbappe.jpg",
+      "sha256": "ed7de3b898bedbd55752aa7c6a403520b12cc3512d39d8816e4cfea612961d55",
+      "width": 1200,
+      "height": 1800,
+      "durationSeconds": null,
+      "sizeKB": 295.44,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/kylian-mbappe.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/kylian-mbappe.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/kylian-mbappe.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/kylian-mbappe.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/kylian-mbappe.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/kylian-mbappe.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/kylian-mbappe.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/kylian-mbappe.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/kylian-mbappe.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/kylian-mbappe.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T19:55:55.448Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782935755448-pg8jvs8"
+      }
+    },
+    {
+      "mediaID": "sport-footballers-lamine-yamal",
+      "id": "img-1782935882640-cb3l8eg",
+      "type": "image",
+      "media_type": "image",
+      "name": "Lamine Yamal",
+      "description": "Spanish Footballer for Barcelona",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "lamine-yamal.webp",
+      "originalName": "lamine-yamal.jpg",
+      "sha256": "6e04e1b410793bf4b1b0f8b3174ae8aadd8c71d3e7f9f30d0a77b6315d576601",
+      "width": 1200,
+      "height": 750,
+      "durationSeconds": null,
+      "sizeKB": 39.37,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/lamine-yamal.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/lamine-yamal.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/lamine-yamal.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/lamine-yamal.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/lamine-yamal.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/lamine-yamal.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/lamine-yamal.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/lamine-yamal.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/lamine-yamal.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/lamine-yamal.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T19:58:02.640Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782935882640-cb3l8eg"
+      }
+    },
+    {
       "mediaID": "2026-alt-tv-leonardo-dicaprio",
       "id": "img-1768453811297-80rqhk2",
       "type": "image",
@@ -1454,6 +1804,56 @@
         "capturedAt": "2026-01-15T05:10:11.297Z",
         "videoTimestamp": "5:20",
         "sourceID": "img-1768453811297-80rqhk2"
+      }
+    },
+    {
+      "mediaID": "sport-footballers-lionel-messi",
+      "id": "img-1782935590041-66d28rf",
+      "type": "image",
+      "media_type": "image",
+      "name": "Lionel Messi",
+      "description": "Argentine Footballer for Inter Miami",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "lionel-messi.webp",
+      "originalName": "lionel-messi.jpg",
+      "sha256": "e4bccb7699c0a514a1a9146c2092d1bf048c1abb6b86cb9d471b5bd46f706135",
+      "width": 1200,
+      "height": 800,
+      "durationSeconds": null,
+      "sizeKB": 64.34,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/lionel-messi.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/lionel-messi.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/lionel-messi.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/lionel-messi.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/lionel-messi.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/lionel-messi.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/lionel-messi.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/lionel-messi.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/lionel-messi.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/lionel-messi.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T19:53:10.041Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782935590041-66d28rf"
       }
     },
     {
@@ -2154,6 +2554,56 @@
         "capturedAt": "2026-01-15T06:21:34.072Z",
         "videoTimestamp": "19:54",
         "sourceID": "img-1768458094072-0ywgk9b"
+      }
+    },
+    {
+      "mediaID": "sport-footballers-vinicius-junior",
+      "id": "img-1782935967898-2d0a804",
+      "type": "image",
+      "media_type": "image",
+      "name": "Vin\u00edcius J\u00fanior",
+      "description": "Brazilian Footballer for Real Madrid",
+      "subject": "Sports",
+      "category": "Football-World-Current-Player",
+      "collection": "Footballers",
+      "mode": "training",
+      "competition": {
+        "year": "",
+        "round": "",
+        "matchNumber": "",
+        "section": ""
+      },
+      "section": "",
+      "year": "",
+      "round": "",
+      "matchNumber": "",
+      "knowledge": -1,
+      "filename": "vinicius-junior.webp",
+      "originalName": "vinicius-junior.jpg",
+      "sha256": "df7f8e4f789ec008efe7c145f2a4c04b6dfcb44af8cd2bcdec80ace07fcb9ebb",
+      "width": 250,
+      "height": 375,
+      "durationSeconds": null,
+      "sizeKB": 12.92,
+      "github": {
+        "baseRemotePath": "library/images/sport/footballers",
+        "relativePath": "library/images/sport/footballers/full/vinicius-junior.webp",
+        "fullRelativePath": "library/images/sport/footballers/full/vinicius-junior.webp",
+        "thumbnailRelativePath": "library/images/sport/footballers/thumbs/vinicius-junior.webp",
+        "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/vinicius-junior.webp",
+        "fullUrl": "https://media.learnwithcole.com/library/images/sport/footballers/full/vinicius-junior.webp",
+        "thumbnailUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/vinicius-junior.webp",
+        "localRelativePath": "../github-ready/library/images/sport/footballers/full/vinicius-junior.webp",
+        "localThumbnailRelativePath": "../github-ready/library/images/sport/footballers/thumbs/vinicius-junior.webp"
+      },
+      "url": "https://media.learnwithcole.com/library/images/sport/footballers/full/vinicius-junior.webp",
+      "thumbUrl": "https://media.learnwithcole.com/library/images/sport/footballers/thumbs/vinicius-junior.webp",
+      "source": {
+        "app": "scq-capture-studio",
+        "sourceJson": "001-football-pack.zip",
+        "capturedAt": "2026-07-01T19:59:27.898Z",
+        "videoTimestamp": "18:23",
+        "sourceID": "img-1782935967898-2d0a804"
       }
     }
   ]
